@@ -337,7 +337,7 @@ spinnercat.Robovirus 2.718,http://robocode-archive.strangeautomata.com/robots/sp
 squidM.TentalceMeleeNano 1.1,http://robocode-archive.strangeautomata.com/robots/squidM.TentalceMeleeNano_1.1.jar
 stelo.AreaTargetingBot 1.1,http://robocode-archive.strangeautomata.com/robots/stelo.AreaTargetingBot_1.1.jar
 stelo.IntrinsicVolatility 1.4,http://robocode-archive.strangeautomata.com/robots/stelo.IntrinsicVolatility_1.4.jar
-stelo.Liblix 0.1,https://github.com/kimtg/robocode-bots/releases/download/release/stelo.Liblix_0.1.jar
+stelo.Liblix 0.2,https://github.com/kimtg/robocode-bots/releases/download/release/stelo.Liblix_0.2.jar
 stelo.Lifestealer 1.0,http://robocode-archive.strangeautomata.com/robots/stelo.Lifestealer_1.0.jar
 stelo.Mirror 1.1,http://robocode-archive.strangeautomata.com/robots/stelo.Mirror_1.1.jar
 stelo.MirrorMicro 1.0,http://robocode-archive.strangeautomata.com/robots/stelo.MirrorMicro_1.0.jar
