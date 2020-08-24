@@ -103,9 +103,7 @@ donjezza.Jezza 1.0,http://robocode-archive.strangeautomata.com/robots/donjezza.J
 donjezza.Muncho 1.0,http://robocode-archive.strangeautomata.com/robots/donjezza.Muncho_1.0.jar
 drd.Dreadknoght 0.9,http://robocode-archive.strangeautomata.com/robots/drd.Dreadknoght_0.9.jar
 ds.Oo 2.2,http://robocode-archive.strangeautomata.com/robots/ds.Oo_2.2.jar
-dsekercioglu.Nightmare 1.4,https://www.dropbox.com/s/coix0lmdyatnqr9/dsekercioglu.Nightmare_1.4.jar?dl=1
-dsekercioglu.TomahawkM 1.1,https://www.dropbox.com/s/s2lqc8a65xcav3h/dsekercioglu.TomahawkM_1.1.jar?dl=1
-dsekercioglu.WhiteFang 1.0.6,https://www.dropbox.com/s/fasny1zw8skyb7q/dsekercioglu.WhiteFang_1.0.6.jar?dl=1
+dsekercioglu.Golem 0.1,https://www.dropbox.com/s/jdsprob8s7oozlt/dsekercioglu.techno.Golem_0.1.jar?dl=1
 dsw.StaticD 1.0,http://robocode-archive.strangeautomata.com/robots/dsw.StaticD_1.0.jar
 DTF.Kludgy 1.2b,http://robocode-archive.strangeautomata.com/robots/DTF.Kludgy_1.2b.jar
 dummy.micro.Sparrow 2.5,http://robocode-archive.strangeautomata.com/robots/dummy.micro.Sparrow_2.5.jar
